@@ -35,12 +35,28 @@
   ],
   "Addon": [
     {
-        "name": "Minecon 2021 Mobs Add-on",
-        "role": "In this add-on I added the three mobs for voting.I created this add-on a few days ago, but only today I managed to publish it, we already know who won,congratulations allay! but now you can enjoy all the mobs. Except for one, the bean already has similar functions to those given by minecraft, but I couldn't add them identical. I am working to improve them,but at the same time I am working on other add-ons and the next update for this add-on will appear later. For the functions currently added to the mobs, you can find them below in the description of each mob. ! For the Add-on to work you must have experimental gameplay settings enabled when you create the world. If you already have a world created, a copy will be made to it when you activate these settings.As I already said, add-ons I am working on are the next: The Wild Update Add-on, Saint Nicholas Holiday Add-on, Christmas Holidays Add-on,but I don't promise it will all show up.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/2/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/2/Minecon_2021_Mobs_Addon.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/2/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/2/1.png"
+        "name": "Flying Unicorn Addon",
+        "role": "Have you always wished unicorns were in minecraft? Well with this addon it replaces horses with flying unicorns! It has different variants and when you ride them you can fly.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/Unicorns.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/1/1.png"
+    },
+    {
+        "name": "Unicorn",
+        "role": "This add-on changes the average horse wandering around the world to give it a horn. which turns it into what? that's right a unicorn. these magical creatures act exactly like the horse you have in your stable but look a tad bit different to make them more unique.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/unicornv2tynkerb3e00fec.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/2/1.png"
+    },
+    {
+        "name": "Unicorns and Butterflies Add-on!!",
+        "role": "And not just Unicorns and butterflies, there's Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They're horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/unicorn.v4_1590983439.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/New Text Document.txt"
     }
   ],
   "Map": [
