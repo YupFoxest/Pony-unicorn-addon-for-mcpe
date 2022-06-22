@@ -1,0 +1,120 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Minecon 2021 Mobs Add-on",
+        "role": "In this add-on I added the three mobs for voting.I created this add-on a few days ago, but only today I managed to publish it, we already know who won,congratulations allay! but now you can enjoy all the mobs. Except for one, the bean already has similar functions to those given by minecraft, but I couldn't add them identical. I am working to improve them,but at the same time I am working on other add-ons and the next update for this add-on will appear later. For the functions currently added to the mobs, you can find them below in the description of each mob. ! For the Add-on to work you must have experimental gameplay settings enabled when you create the world. If you already have a world created, a copy will be made to it when you activate these settings.As I already said, add-ons I am working on are the next: The Wild Update Add-on, Saint Nicholas Holiday Add-on, Christmas Holidays Add-on,but I don't promise it will all show up.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Allay/2/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Allay/2/Minecon_2021_Mobs_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Allay/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Allay/2/1.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/NG2NSWxxDmDZEtBqVUM8JOFC-XQh_SKzZk6qzth81woouFa8DwvrRgPPB5NF6DdL4I_yDBz-3dH0PVdauV_apw",
+    "view_skin": "https://lh3.googleusercontent.com/JfqgWUV-rcFGOo8_xnZaLadAIcDAvrtX6p54miFr8IFnNI4X5OQ71XJ7OBCAoQU8_waM5NiSWUqlHdI8RMpHkQ"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/TpBbmHb5mcgUysnV8xhONJyltT3TlxwdNfDWV7YAaXTlER3fQZdxbXuLyagYr0qgM25GOtPxqNoq-5yY7GpUkAxCdXrj-sv0CRts",
+    "view_skin": "https://lh3.googleusercontent.com/06DN3mteqirhp6vvmC0BVn-vvG9FsigwNAp0VdoH6gQwLZfeezzsqqLss0bVTgL6zT9qVSHfLm8BErWF_jV2c-Fm78PXa8vj4Fc"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Yy2L6RLocaF-8DRGWOJnQ1W1OxQzdoNTtODiP8rsKNfAWLXVnJCLPzsS3LT5I3-qLw8S-KP3rA-icvVftieeRw",
+    "view_skin": "https://lh3.googleusercontent.com/0Mpga6dvlmxcelRWsBfQqsez7f1l_5eAVCgTC63AOJoOS4AiGUrdu3Jt9SHaY6IoZhRYXU0MZbgApdRl9_qOxA"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/WTJpnzbXQNz6PqsvJpOJk1oi_01iY6rOw9_pKlbrG6Pw8MbNkR8UwV75TvW0Ur1eTQu-S07BaCDJoYvQp2N07Bw",
+    "view_skin": "https://lh3.googleusercontent.com/idEMhKsgokS6W4AIJcJZkF3JVczHxsUgJDd6sYj9JyokkACsKvtj_cOJMkwQ3eRZ8xb2ZlOZAW3KBiKpZMYFaw"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/KFtkEJZUZGFNKS3nLAen1XNP6lvDgcWBt9eGLYgVuvM1sR8tqAG12up5_DW1rfRU8nh_Mntw-P2yeZ1hht4-8A",
+    "view_skin": "https://lh3.googleusercontent.com/9dDKprnnkVDshXHZnNXPL5Hfu8WsC7AGuLCu-liVmSeSODyyV5eto3aS9dMzwyZHt58Yc5TuirgR-G3rsPtZF5w"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/d8tvFOXYK3Ytnf3ivrCwwytf8x3ZPDFYwDgMpW_xJ1_S4dAeUJQtq0b0fOGO2yEDwJxNK75Y7YC7yI5G6Q30",
+    "view_skin": "https://lh3.googleusercontent.com/4lnAO961IcyaCWq02IbD4QyW0njVKAyzz4oTSbG7Z9WbIbABqDJp9vqK_NJRHZu8aiu1lAjX914xyWRI3vMHqw"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
